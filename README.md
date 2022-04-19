@@ -20,7 +20,7 @@ To Use Valgrind:
 valgrind proj5 proj5_data.txt
 
 
-#What I learned
+# What I learned
 
 - Created and Implemeneted Data Structure With Functions
 
